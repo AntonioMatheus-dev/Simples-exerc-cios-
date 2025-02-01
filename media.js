@@ -8,4 +8,4 @@ const soma=nota1+nota2+nota3;
          //parseInt, caso queira
 const media=(soma/3);
 
-console.log(`A media das 3 notas é: ${media}`)
+console.log(`A media das 3 notas é: ${media}`);

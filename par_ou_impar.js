@@ -3,7 +3,7 @@
 const numeros=prompt('Digite um numero: ');
 
 if(numeros % 2 === 0){
-    console.log(`O numero ${numeros} é par`)
+    console.log(`O numero ${numeros} é par`);
 }else{
-    console.log(`O numero ${numeros} é impar`)
+    console.log(`O numero ${numeros} é impar`);
 }
